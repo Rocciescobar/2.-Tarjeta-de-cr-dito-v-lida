@@ -61,4 +61,4 @@ var inputCodeCard = prompt ("Ingrese su número de una tarjeta de crédito")
 
 A continuación se detalla en un diagrama de flujo:
 
-![Sin titulo](Imágenes/DiagramCodeCard.jpg)
+[Diagrama Tarjeta Crédito](https://drive.google.com/open?id=0B8fqMV-mBqZgZ3VJSWdhSE1SbHc)
